@@ -27,7 +27,7 @@ h1 {
   color: var(--mainPink)
 }
 h5, h3 {
-color: var(--storeBlue);
+color: var(--mainlightblue);
 }
 .btn-pink {
   color: var(--mainPink)!important;
@@ -216,4 +216,10 @@ background: var(--mainPink)!important;
 }
 .contact-details {
   color: var(--mainPink);
+}
+.icon-link {
+  color: var(--secondlightPink);
+}
+.icon-link2 {
+  color: var(--mainlightblue);
 }
